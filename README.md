@@ -1,1 +1,1 @@
-# ASeramik Php ile yapılmıştır.
+# Built with PHP.
